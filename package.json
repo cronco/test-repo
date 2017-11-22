@@ -1,0 +1,8 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cronco/test-repo.git",
+  "author": "Mihai Chereji <mihai@cronco.me>",
+  "license": "MIT"
+}
